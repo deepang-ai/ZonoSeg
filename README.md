@@ -76,8 +76,6 @@ Pretrained weights are available in the companion
 
 # Visualization
 
-![Overview](./figures/Overview.png)
-
 ![Visualization](./figures/Visualization.png)
 
 ![Boundary visualization](./figures/Visualization2.png)
