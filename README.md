@@ -1,6 +1,6 @@
 # ZonoSeg: A Zonal-aware Prostate Segmentation Framework on 3D MRI Images
 
-> This work is accepted by [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/)
+> This work is accepted by [IEEE Transactions on Medical Imaging](https://doi.org/10.1109/TMI.2026.3739459)
 
 [![GitHub](https://img.shields.io/badge/Code-GitHub-181717?logo=github)](https://github.com/deepang-ai/ZonoSeg)
 [![Hugging Face](https://img.shields.io/badge/Weights-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/deepang/ZonoSeg)
@@ -87,6 +87,7 @@ Pretrained weights are available in the companion
   title={ZonoSeg: A Zonal-aware Prostate Segmentation Framework on 3D MRI Images},
   author={Li, Yunhao and Wang, Aoying and Wang, Qiong and Hu, Ying and Qin, Jing and Pang, Yan},
   journal={IEEE Transactions on Medical Imaging},
-  year={2026}
+  year={2026},
+  doi={10.1109/TMI.2026.3739459}
 }
 ```
